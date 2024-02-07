@@ -8,4 +8,3 @@ Dive into a handpicked selection of resources covering manual testing, test auto
 | Grade 2 | Text |
 | Grade 3 | Text |
 | Grade 4 | Text |
-| Grade 5 | Text |
