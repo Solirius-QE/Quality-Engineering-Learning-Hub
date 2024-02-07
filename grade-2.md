@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Grade 2
 
 Expectation of grade
@@ -9,7 +7,6 @@ Expectation of grade
 - Conducts and documents manual and automated testing following test plans.
 - Evaluates and reports on testing activities, outcomes, challenges, and potential risks.
 
->>>>>>> ed2ee651e6d80b58e775c033d60c7351b7f1d590
 # Programming
 
 - [The Complete C# and Object-Oriented Programming Course](https://www.udemy.com/course/the-complete-c-sharp-developer-course/)
