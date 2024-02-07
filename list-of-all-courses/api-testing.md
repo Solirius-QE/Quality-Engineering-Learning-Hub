@@ -8,3 +8,4 @@
 - [Rest API Testing (Automation) from Scratch-Rest Assured Java](https://www.udemy.com/course/rest-api-automation-testing-rest-assured/)
 
 ## Advance 
+- [OWASP API Security Top 10 Course – Secure Your Web Apps](https://youtu.be/YYe0FdfdgDU?si=cAWCjSFHANYAs3rq)
