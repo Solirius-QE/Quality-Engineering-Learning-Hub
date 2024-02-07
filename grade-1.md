@@ -1,5 +1,12 @@
 # Grade 1
 
+Expectation of grade
+
+- Carries out assigned manual test procedures under supervision.
+- Utilises basic automated testing tools.
+- Records outcomes and reports identified issues.
+- Develops an understanding of the role of testing as a tool for design improvement and a validation process.
+
 ## Foundations
 - [CS50, Harvard University’s introduction to computer science and the art of programming](https://cs50.harvard.edu/x/2024/)
 - [Foundations of Agile Software Testing](https://www.udemy.com/course/foundations-of-agile-software-testing-j/)
