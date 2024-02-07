@@ -5,6 +5,6 @@ Dive into a handpicked selection of resources covering manual testing, test auto
 | Grade | Recommend Courses |
 | --- | ----------- |
 | Grade 1 | [Courses](./grade-1.md) |
-| Grade 2 | Text |
-| Grade 3 | Text |
-| Grade 4 | Text |
+| Grade 2 | [Courses](./grade-2.md) |
+| Grade 3 | [Courses](./grade-3.md) |
+| Grade 4 | [Courses](./grade-4.md)|
