@@ -1,1 +1,1 @@
-# Quality-Engineering-Learning-Hub
+# Quality Engineering Learning Hub
