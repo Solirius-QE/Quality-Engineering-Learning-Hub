@@ -1,5 +1,12 @@
 # Grade 1
 
+Expectation of grade
+
+- Carries out assigned manual test procedures under supervision.
+- Utilises basic automated testing tools.
+- Records outcomes and reports identified issues.
+- Develops an understanding of the role of testing as a tool for design improvement and a validation process.
+
 ## Foundations
 
 | Course | Length | Training Days Required |
