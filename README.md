@@ -1,4 +1,4 @@
-# Quality Engineering Learning Hub
+# Solirius Quality Engineering Learning Hub
 
 Dive into a handpicked selection of resources covering manual testing, test automation, and QA best practices. Elevate your skills with this curated list 🚀🧪
 
