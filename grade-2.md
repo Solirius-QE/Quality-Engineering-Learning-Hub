@@ -18,7 +18,13 @@
 |[Intermediate Python Object Oriented Programming Course](https://www.codecademy.com/learn/learn-intermediate-python-3-object-oriented-programming)| 🛠️ Codeacedemy | 2 hrs + |
 |[Node.js Course](https://www.codecademy.com/learn/learn-node-js)| 🛠️ Codeacedemy | 5 hrs + |
 
-# Testing Methologies 
+## Web Browser Tools
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[How to use Chrome DevTools like a pro? Part 1](https://youtu.be/fgbqkVOH7Q4?si=TxOQKIRfWFZe1d-U)|  📺 YouTube video| 1+ hrs |
+|[How to use Chrome DevTools like a pro? Part 2](https://youtu.be/_51ds4cXloI?si=qWgrHxFDjVEs1Fi1)|  📺 YouTube video| 1+ hrs |
+
+# Testing Methodologies  
 | Course | Type of course | avg. Training Time Required |
 | ------ | -------------- | --------------------------- | 
 [ISTQB Certified Tester Foundation Level Training (CTFL)](https://www.udemy.com/course/istqb-certified-tester-foundation-level-training-ctfl/)| 🎧 Udemy Course | 11 hrs +|

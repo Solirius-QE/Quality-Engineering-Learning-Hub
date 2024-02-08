@@ -37,6 +37,11 @@ We suggest that you explore beginner-friendly tools known as low-code platforms.
 | **Code Frameworks**| | |
 |[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|🛠️ Practical  guide with videos| 
 
+## Foundation Web Browser Tools
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[Getting Started with Developer Tools](https://youtu.be/NUKxyR0G1MU?si=2aRzZgGsFOSPTRrU)|  📺 YouTube video| 30 mins |
+
 ## Foundation Programming and Scripting
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
