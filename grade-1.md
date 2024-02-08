@@ -26,7 +26,7 @@
 |[Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/)|📚 Reading| 1hr| 
 
 ## Foundation Web Automation UI Testing
-We suggest that you explore beginner-friendly tools known as low-code platforms. These platforms often come in the form of browser extensions. They allow you to easily record and replay your tests, helping you grasp the basics of test automation. As you become more familiar with these concepts, transitioning to more advanced coded frameworks will feel smoother. However, if you already feel confident using a programming language, feel free to jump right into coded frameworks. (All these tools should be freely available; you shouldn't have to pay anything to use them. If you encounter any instance where you're prompted to pay, please refrain from making any payments and report this issue to us by using the 'issues' feature here on GitHub.)
+We suggest that you explore beginner-friendly tools known as low-code platforms. These platforms often come in the form of browser extensions. They allow you to easily record and replay your tests, helping you grasp the basics of test automation. As you become more familiar with these concepts, transitioning to more advanced coded frameworks will feel smoother. However, if you already feel confident using a programming language, feel free to jump right into coded frameworks. (All these tools should be freely available; you shouldn't have to pay anything to use them. If you encounter any instance where you're prompted to pay, please refrain from making any payments and report this issue to us by using the 'issues' feature for this repo here on GitHub.)
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 | **Low-code platforms**| | |
