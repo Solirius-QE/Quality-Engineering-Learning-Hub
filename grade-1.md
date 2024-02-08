@@ -51,7 +51,9 @@
 |[Python for beginners](https://www.udemy.com/course/python-core-and-advanced/)| | Lectures / Assignments | |
 |[Javascript Course - Codeacademy](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)| | Code along | |
 |[Typescript Course - Codeacademy](https://www.codecademy.com/learn/learn-typescript)| | Code along | |
-
+|[Ruby Course - Codeacademy](https://www.codecademy.com/learn//learn-ruby)| | Code along | |
+|[Python Course - Codeacademy](https://www.codecademy.com/learn//learn-python)| | Code along | |
+|[C# Course - Codeacademy](https://www.codecademy.com/learn//learn-c-sharp)| | Code along | |
 ## Web UI Testing
 | Course | Length | Type of Learning | Training Days Required |
 | ------ | ------ | ---------------------- |--- |
