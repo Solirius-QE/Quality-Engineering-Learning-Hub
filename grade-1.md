@@ -32,8 +32,8 @@ We suggest that you explore beginner-friendly tools known as low-code platforms.
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 | **Low-code platforms**| | |
-|[Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)|🛠️ Practical  guide with video| 2-3 hrs |
-|[Web UI Testing With Katalon: Low-code Journey](https://academy.katalon.com/learning-path/low-code-web-testing/)|🛠️ Practical  guide with video| 2+ hrs |
+|[Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)|🛠️ Practical  guide with videos| 2-3 hrs |
+|[Web UI Testing With Katalon: Low-code Journey](https://academy.katalon.com/learning-path/low-code-web-testing/)|🛠️ Practical  guide with videos| 2+ hrs |
 | **Code Frameworks**| | |
 |[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|🛠️ Practical  guide with videos| 
 
@@ -41,7 +41,7 @@ We suggest that you explore beginner-friendly tools known as low-code platforms.
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 |[Learn JavaScript - Full Course for Beginners](https://youtu.be/PkZNo7MFNFg?si=SmulnMptXXtkGl0c)|📺 YouTube video| 4-5 hrs | 
-|[freeCodeCamp Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)|🔧 hands on walkthrough tutorial|4-5 hrs | 
+|[freeCodeCamp Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)|🛠️ Practical guide|4-5 hrs | 
 |[C# Tutorial - Full Course for Beginners](https://youtu.be/GhQdlIFylQ8?si=2ax24zCJmZtMtJCM)|📺 YouTube video| 4-5 hrs| 
 |[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/)| 🎧 Udemy Course|4-5 hrs | 
 |[Python for beginners](https://www.udemy.com/course/python-core-and-advanced/)|🎧 Udemy Course| 4-5 hrs| 

@@ -10,9 +10,11 @@
 - Collaborates closely with development teams to promote test-driven development (TDD) and continuous integration/continuous deployment (CI/CD) practices.
 - Provides mentorship and guidance to junior testers, fostering their growth and proficiency in testing practices.
 
-# Advanced Testing Concepts
+## Advanced Testing Concepts
 
-- [Test-Driven Development Approaches & Behavior-Driven Development Principles Cucumber and Its Applications](https://youtu.be/_reKcWXXbfE?feature=shared)
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[Test-Driven Development Approaches & Behavior-Driven Development Principles Cucumber and Its Applications](https://youtu.be/_reKcWXXbfE?feature=shared)|📺 YouTube video| 3+hr|
 
 ## Exploratory Testing
 
@@ -31,7 +33,9 @@ Tools and methodologies for model-based testing
 
 ## Mutation Testing
 
-- [Mutation Testing: Case Studies on Spring Boot APIs](https://youtu.be/88fDcPurp-Y?si=CIw-Xc4BFuCGG53o)
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[UMutation Testing: Case Studies on Spring Boot APIs](https://youtu.be/88fDcPurp-Y?si=CIw-Xc4BFuCGG53o)|📺 YouTube video| 3+hr|
 
 Introduction to the concept of mutation testing
 Implementing and interpreting mutation testing results
@@ -45,6 +49,10 @@ Tools and best practices for managing automated regression suites
 
 Integrating testing into CI/CD pipelines
 Strategies for ensuring quality in rapid development cycles
+
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)|🛠️ Practical guide| 2+hr| 
 
 ## Performance Testing Optimisation
 
