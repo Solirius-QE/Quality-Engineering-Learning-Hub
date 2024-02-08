@@ -49,7 +49,8 @@
 |[C# Tutorial - Full Course for Beginners](https://youtu.be/GhQdlIFylQ8?si=2ax24zCJmZtMtJCM)| | Video only | |
 |[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/)| | Lectures / Assignments | |
 |[Python for beginners](https://www.udemy.com/course/python-core-and-advanced/)| | Lectures / Assignments | |
-|[Javascipt Course - Codeacademy](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)| | Code along | |
+|[Javascript Course - Codeacademy](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)| | Code along | |
+|[Typescript Course - Codeacademy](https://www.codecademy.com/learn/learn-typescript)| | Code along | |
 
 ## Web UI Testing
 | Course | Length | Type of Learning | Training Days Required |
