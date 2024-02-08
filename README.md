@@ -4,8 +4,8 @@ Dive into our handpicked selection of resources covering manual testing, test au
 
 | Grade | Recommend Courses | Focus |
 |:----------|:-------------:|------|
-| Grade 1| [Courses](./grade-1.md) | Testing foundation, accessibility, github, beginner programming skills. |
-| Grade 2| [Courses](./grade-2.md) | Testing methodologies, Agile and DevOps, UI Test Automation, programming skills|
-| Grade 3| [Courses](./grade-3.md) | Advanced testing concepts |
-| Grade 4| [Courses](./grade-4.md) | Advanced automation testing, advanced API testing |
-| Performance Testing |  | Foundation to advanced performance testing |
+| Grade 1| [Courses](./grade-1.md) | Testing foundations, accessibility, github, beginner programming skills. |
+| Grade 2| [Courses](./grade-2.md) | Testing methodologies, Agile and DevOps, UI Test Automation, programming skills.|
+| Grade 3| [Courses](./grade-3.md) | Advanced testing concepts. |
+| Grade 4| [Courses](./grade-4.md) | Advanced automation testing, advanced API testing. |
+| Performance Testing |  | Foundation to advanced performance testing. |
