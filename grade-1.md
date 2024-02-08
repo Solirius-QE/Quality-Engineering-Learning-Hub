@@ -6,8 +6,6 @@
 - Utilises basic automated testing tools.
 - Records outcomes and reports identified issues.
 - Develops an understanding of the role of testing as a tool for design improvement and a validation process.
-
-
  
 ## Foundations
 
@@ -25,11 +23,16 @@
 | ------ | ------ | ---- |
 |[Manual Testing](https://www.javatpoint.com/manual-testing)|📚 |10min read  | 
 |[Software Testing – Test Analysis](https://www.geeksforgeeks.org/software-testing-test-analysis/) |📚 Reading| 10min read | 
+|[Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/)|📚 Reading| 1hr| 
 
-## Foundation Accessibility Testing
+## Foundation Web Automation UI Testing
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
-|[Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/)|📚 Reading| 1hr| 
+| **Low-code platforms**| | |
+|[Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)|📽️ Video and follow along| 2-3 hrs |
+|[Web UI Testing With Katalon: Low-code Journey](https://academy.katalon.com/learning-path/low-code-web-testing/)|📽️ Video and follow along| 2+ hrs |
+| **Code Frameworks**| | |
+|[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|📽️ Video and follow along| 2-3 hrs| 
 
 ## Foundation Github
 | Course | Type of course | avg. Training Time Required |
@@ -50,11 +53,3 @@
 |[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/)| 📽️ Video and follow along| | 
 |[Python for beginners](https://www.udemy.com/course/python-core-and-advanced/)|📽️ Video and follow along| | 
 
-## Foundation Web UI Testing
-| Course | Type of course | avg. Training Time Required |
-| ------ | ------ | ---- |
-| **Low-code platforms**| | |
-|[Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)|📽️ Video and follow along| 2-3 hrs |
-|[Web UI Testing With Katalon: Low-code Journey](https://academy.katalon.com/learning-path/low-code-web-testing/)|📽️ Video and follow along| 2+ hrs |
-| **Code Frameworks**| | |
-|[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|📽️ Video and follow along| 2-3 hrs| 
