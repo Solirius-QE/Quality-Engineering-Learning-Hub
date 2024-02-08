@@ -10,21 +10,21 @@
 
 ## Programming and Scripting
 
-| Course | Length | Type of Learning | Training Days Required |
-| ------ | ------ | ---------------- | ---------------------- |
-|[The Complete C# and Object-Oriented Programming Course](https://www.udemy.com/course/the-complete-c-sharp-developer-course/)| |Lectures | |
-|[The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)| |Lectures | |
-|[Intermediate JavaScript Course](https://www.codecademy.com/learn/learn-intermediate-javascript)| | Code along | |
-|[Intermediate Python Object Oriented Programming Course](https://www.codecademy.com/learn/learn-intermediate-python-3-object-oriented-programming)| | Code along | |
-|[Node.js Course](https://www.codecademy.com/learn/learn-node-js)| | Code along | |
+| Course | Type of course | avg. Training Time Required |
+| ------ | -------------- | --------------------------- | 
+|[The Complete C# and Object-Oriented Programming Course](https://www.udemy.com/course/the-complete-c-sharp-developer-course/)| 🎧 Udemy Course | 3 days + | 
+|[The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)| 🎧 Udemy Course | 4 days |
+|[Intermediate JavaScript Course](https://www.codecademy.com/learn/learn-intermediate-javascript)| 🛠️ Codeacedemy  | 10 hours |
+|[Intermediate Python Object Oriented Programming Course](https://www.codecademy.com/learn/learn-intermediate-python-3-object-oriented-programming)| 🛠️ Codeacedemy | 2 hrs + |
+|[Node.js Course](https://www.codecademy.com/learn/learn-node-js)| 🛠️ Codeacedemy | 5 hrs + |
 
 # Testing Methologies 
-| Course | Length | Type of Learning | Training Days Required |
-| ------ | ------ | ---------------- | ---------------------- |
-[ISTQB Certified Tester Foundation Level Training (CTFL)](https://www.udemy.com/course/istqb-certified-tester-foundation-level-training-ctfl/)| | Training Course | |
+| Course | Type of course | avg. Training Time Required |
+| ------ | -------------- | --------------------------- | 
+[ISTQB Certified Tester Foundation Level Training (CTFL)](https://www.udemy.com/course/istqb-certified-tester-foundation-level-training-ctfl/)| 🎧 Udemy Course | 11 hrs +|
 
 # Testing Implementation
-| Course | Length | Type of Learning | Training Days Required |
-| ------ | ------ | ---------------- | ---------------------- |
-|[JavaScript Unit Testing Course](https://www.codecademy.com/learn/learn-javascript-unit-testing)| | Code along | |
+| Course | Type of course | avg. Training Time Required |
+| ------ | -------------- | --------------------------- | 
+|[JavaScript Unit Testing Course](https://www.codecademy.com/learn/learn-javascript-unit-testing)| 🛠️ Codeacedemy| 3 hrs + |
 
