@@ -1,6 +1,6 @@
 # Solirius Quality Engineering Learning Hub
 
-Dive into a handpicked selection of resources covering manual testing, test automation, and QA best practices. Elevate your skills with this curated list 🚀🧪
+Dive into our handpicked selection of resources covering manual testing, test automation, and QA best practices from foundation to advanced. Boost your skills with this thoughtfully and regularly updated selection. 🚀🧪🌟📚🔝🏆💪
 
 | Grade | Recommend Courses | Focus |
 |:----------|:-------------:|------|
