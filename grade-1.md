@@ -7,7 +7,7 @@
 - Records outcomes and reports identified issues.
 - Develops an understanding of the role of testing as a tool for design improvement and a validation process.
  
-## Foundations
+## Foundation in the theory of Software Testing
 
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
@@ -34,16 +34,6 @@
 | **Code Frameworks**| | |
 |[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|📽️ Video and follow along| 2-3 hrs| 
 
-## Foundation Github
-| Course | Type of course | avg. Training Time Required |
-| ------ | ------ | ---- |
-|[GitHub Skills](https://skills.github.com/)|🔧 hands on walkthrough tutorial | 2-3 hr| 
-
-## Foundation API
-| Course | Type of course | avg. Training Time Required |
-| ------ | ------ | ---- |
-|[APIs for Beginners 2023 - How to use an API (Full Course / Tutorial)](https://youtu.be/WXsD0ZgxjRw?si=N5lTURRhsBF4fqQ5)| 📽️ Video and follow along| 4-5 hrs | 
-
 ## Foundation Programming and Scripting
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
@@ -52,4 +42,14 @@
 |[C# Tutorial - Full Course for Beginners](https://youtu.be/GhQdlIFylQ8?si=2ax24zCJmZtMtJCM)|📽️ Video and follow along| | 
 |[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/)| 📽️ Video and follow along| | 
 |[Python for beginners](https://www.udemy.com/course/python-core-and-advanced/)|📽️ Video and follow along| | 
+
+## Foundation Github
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[GitHub Skills](https://skills.github.com/)|🔧 hands on walkthrough tutorial | 2-3 hr| 
+
+## Foundation API
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[APIs for Beginners 2023 - How to use an API (Full Course / Tutorial)](https://youtu.be/WXsD0ZgxjRw?si=N5lTURRhsBF4fqQ5)| 📽️ Video and follow along| 4-5 hrs |
 
