@@ -83,3 +83,8 @@ Strategies for data-driven testing
 
 Introducing controlled chaos to identify system weaknesses
 Implementing chaos engineering practices for resilient systems
+
+## Unit Testing
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[JavaScript Unit Testing Course](https://www.codecademy.com/learn/learn-javascript-unit-testing)|🛠️ Practical guide | 2-3 hr|

@@ -33,7 +33,7 @@ We suggest that you explore beginner-friendly tools known as low-code platforms.
 | ------ | ------ | ---- |
 | **Low-code platforms**| | |
 |[Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)|🛠️ Practical  guide with videos| 2-3 hrs |
-|[Web UI Testing With Katalon: Low-code Journey](https://academy.katalon.com/learning-path/low-code-web-testing/)|🛠️ Practical  guide with videos| 2+ hrs |
+|[Web UI Testing With Katalon: Low-code Journey](https://academy.katalon.com/learning-path/low-code-web-testing/)|🛠️ Practical guide with videos| 2+ hrs |
 | **Code Frameworks**| | |
 |[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|🛠️ Practical  guide with videos| 
 
