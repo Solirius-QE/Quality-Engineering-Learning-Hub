@@ -1,6 +1,6 @@
 # Solirius Quality Engineering Learning Hub
 
-Dive into our handpicked selection of resources covering manual testing, test automation, and QA best practices from foundation to advanced. Boost your skills with this thoughtfully curated and regularly updated selection! 🚀🧪🌟📚🔝🏆💪
+Dive into our handpicked selection of resources covering manual testing, test automation, and QA best practices from foundation to advanced. Boost your skills with this thoughtfully curated and regularly updated selection! 🚀🧪
 
 [![Have questions\issues\problems, join the chat at](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://solirius.slack.com/archives/C0194RHLTCL)
 
