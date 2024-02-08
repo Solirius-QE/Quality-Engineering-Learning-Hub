@@ -20,28 +20,28 @@
 |[Introduction to Software Testing or Software QA](https://www.udemy.com/course/introduction-to-software-testing-or-software-qa/) |📽️ | | 
 |[SDLC Overview (1 Hour) - Software Development Life Cycle](https://www.udemy.com/course/sdlc-phases/) | 📽️| | 
 
-### Manual Testing and Test Analysis
+## Foundation Manual Testing and Test Analysis
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 |[Manual Testing](https://www.javatpoint.com/manual-testing)|📚 | | 
 |[Software Testing – Test Analysis](https://www.geeksforgeeks.org/software-testing-test-analysis/) |📚 | | 
 
-## Accessibility Testing
+## Foundation Accessibility Testing
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 |[Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/)|📚 | | 
 
-## Github
+## Foundation Github
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 |[GitHub Skills](https://skills.github.com/)|🔧  | | 
 
-## API
+## Foundation API
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 |[APIs for Beginners - How to use an API (Full Course / Tutorial)](https://youtu.be/GZvSYJDk-us?si=IS7N9Pd-CFvhLw23)| 📽️ | | 
 
-## Programming and Scripting
+## Foundation Programming and Scripting
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 |[Learn JavaScript - Full Course for Beginners](https://youtu.be/PkZNo7MFNFg?si=SmulnMptXXtkGl0c)|📽️ | | 
@@ -49,7 +49,7 @@
 |[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/)| 📽️| | 
 |[Python for beginners](https://www.udemy.com/course/python-core-and-advanced/)|📽️ | | 
 
-## Web UI Testing
+## Foundation Web UI Testing
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 |[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|📽️ | | 
