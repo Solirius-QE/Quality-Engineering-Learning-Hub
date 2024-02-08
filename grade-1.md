@@ -53,4 +53,8 @@
 ## Foundation Web UI Testing
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
-|[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|📽️ | | 
+| Low Code platforms| ------ | ---- |
+|[Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)📽️ Video and follow along| 2-3 hrs |
+|[Web UI Testing With Katalon: Low-code Journey](https://academy.katalon.com/learning-path/low-code-web-testing/)📽️ Video and follow along| 2+ hrs |
+| Low Code platforms| ------ | ---- |
+|[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|📽️ Video and follow along| 2-3 hrs| 
