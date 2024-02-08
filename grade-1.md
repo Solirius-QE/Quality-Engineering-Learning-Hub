@@ -32,10 +32,10 @@ We suggest that you explore beginner-friendly tools known as low-code platforms.
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 | **Low-code platforms**| | |
-|[Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)|🛠️ Practical step-by-step guide with videos| 2-3 hrs |
-|[Web UI Testing With Katalon: Low-code Journey](https://academy.katalon.com/learning-path/low-code-web-testing/)|🛠️ Practical step-by-step guide with videos| 2+ hrs |
+|[Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)|🛠️ Practical  guide with video| 2-3 hrs |
+|[Web UI Testing With Katalon: Low-code Journey](https://academy.katalon.com/learning-path/low-code-web-testing/)|🛠️ Practical  guide with video| 2+ hrs |
 | **Code Frameworks**| | |
-|[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|🛠️ Practical step-by-step guide with videos| 
+|[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|🛠️ Practical  guide with videos| 
 
 ## Foundation Programming and Scripting
 | Course | Type of course | avg. Training Time Required |
@@ -49,7 +49,7 @@ We suggest that you explore beginner-friendly tools known as low-code platforms.
 ## Foundation Github
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
-|[GitHub Skills](https://skills.github.com/)|🛠️ Practical step-by-step guide | 2-3 hr| 
+|[GitHub Skills](https://skills.github.com/)|🛠️ Practical guide | 2-3 hr| 
 
 ## Foundation API
 | Course | Type of course | avg. Training Time Required |
