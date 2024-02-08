@@ -7,7 +7,7 @@
 - Records outcomes and reports identified issues.
 - Develops an understanding of the role of testing as a tool for design improvement and a validation process.
 
-For the 🎧 Udemy Course's you will need a log on, speak to one of the team.
+For the 🎧 Udemy Course's you will need a log on, speak to one of the team. For all other courses you'll be able to access for free or sign-up to access the free content. Any issues speak to one of the team.
  
 ## Foundation in the theory of Software Testing
 
