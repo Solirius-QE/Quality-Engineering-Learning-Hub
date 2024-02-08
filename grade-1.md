@@ -51,8 +51,15 @@ We suggest that you explore beginner-friendly tools known as low-code platforms.
 | ------ | ------ | ---- |
 |[GitHub Skills](https://skills.github.com/)|🛠️ Practical guide | 2-3 hr| 
 
+## Foundation of CI/CD
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[Jenkins Explained in 3 minutes](https://youtu.be/hlpNgRcZyN0?si=F6Us9YUgBs8xXN2b)| 📺 YouTube video| 3mins |
+
 ## Foundation API
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
-|[APIs for Beginners 2023 - How to use an API (Full Course / Tutorial)](https://youtu.be/WXsD0ZgxjRw?si=N5lTURRhsBF4fqQ5)| 📺 YouTube video| 4-5 hrs |
+|[Postman Beginner's Course - API Testing](https://youtu.be/VywxIQ2ZXw4?si=PXCzKTnnZPrQqumJ)| 📺 YouTube video| 4-5 hrs |
+
+
 

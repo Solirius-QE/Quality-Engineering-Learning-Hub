@@ -28,3 +28,12 @@
 | ------ | -------------- | --------------------------- | 
 |[JavaScript Unit Testing Course](https://www.codecademy.com/learn/learn-javascript-unit-testing)| 🛠️ Codeacedemy| 3 hrs + |
 
+## CI/CD
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course)](https://youtu.be/f4idgaq2VqA?si=wiN44UxBTv7KclRp)| 📺 YouTube video| 4-5 hrs |
+
+## API
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[APIs for Beginners 2023 - How to use an API (Full Course / Tutorial)](https://youtu.be/WXsD0ZgxjRw?si=N5lTURRhsBF4fqQ5)| 📺 YouTube video| 4-5 hrs |
