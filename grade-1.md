@@ -54,6 +54,9 @@
 |[Ruby Course - Codeacademy](https://www.codecademy.com/learn//learn-ruby)| | Code along | |
 |[Python Course - Codeacademy](https://www.codecademy.com/learn//learn-python)| | Code along | |
 |[C# Course - Codeacademy](https://www.codecademy.com/learn//learn-c-sharp)| | Code along | |
+|[Command Line Course - Codeacademy](https://www.codecademy.com/learn/learn-the-command-line)| | Code along | |
+
+
 ## Web UI Testing
 | Course | Length | Type of Learning | Training Days Required |
 | ------ | ------ | ---------------------- |--- |
