@@ -24,12 +24,12 @@
 |[How to use Chrome DevTools like a pro? Part 1](https://youtu.be/fgbqkVOH7Q4?si=TxOQKIRfWFZe1d-U)|  📺 YouTube video| 1+ hrs |
 |[How to use Chrome DevTools like a pro? Part 2](https://youtu.be/_51ds4cXloI?si=qWgrHxFDjVEs1Fi1)|  📺 YouTube video| 1+ hrs |
 
-# Testing Methodologies  
+## Testing Methodologies  
 | Course | Type of course | avg. Training Time Required |
 | ------ | -------------- | --------------------------- | 
 [ISTQB Certified Tester Foundation Level Training (CTFL)](https://www.udemy.com/course/istqb-certified-tester-foundation-level-training-ctfl/)| 🎧 Udemy Course | 11 hrs +|
 
-# Testing Implementation
+## Testing Implementation
 | Course | Type of course | avg. Training Time Required |
 | ------ | -------------- | --------------------------- | 
 |[JavaScript Unit Testing Course](https://www.codecademy.com/learn/learn-javascript-unit-testing)| 🛠️ Codeacedemy| 3 hrs + |
