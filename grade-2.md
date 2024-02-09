@@ -44,6 +44,11 @@
 | ------ | ------ | ---- |
 |[APIs for Beginners 2023 - How to use an API (Full Course / Tutorial)](https://youtu.be/WXsD0ZgxjRw?si=N5lTURRhsBF4fqQ5)| 📺 YouTube video| 4-5 hrs |
 
+## Performance Testing
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[Performance Testing using Gatling - Beginner Level](https://www.udemy.com/course/performance-testing-using-gatling/)|🎧 Udemy Course | 1hr 21min |
+
 ## Exploratory Testing
 
 Techniques for unscripted, intuitive testing

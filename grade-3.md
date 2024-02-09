@@ -16,19 +16,29 @@
 | ------ | ------ | ---- |
 |[Test-Driven Development Approaches & Behavior-Driven Development Principles Cucumber and Its Applications](https://youtu.be/_reKcWXXbfE?feature=shared)|📺 YouTube video| 3+hr|
 
-## Mutation Testing
-
+## Professional skills
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
-|[UMutation Testing: Case Studies on Spring Boot APIs](https://youtu.be/88fDcPurp-Y?si=CIw-Xc4BFuCGG53o)|📺 YouTube video| 3+hr|
+|[Presentation Skills Secrets:Delivering the Talk of Your Life](https://www.udemy.com/course/presentation-skills-secrets/)|🎧 Udemy Course| 2hr 19min | 
+|[Conflict Management with Emotional Intelligence](https://www.udemy.com/course/conflict-management-with-emotional-intelligence/)|🎧 Udemy Course| 2hr 19min | 
+
+## Mutation Testing
 
 Introduction to the concept of mutation testing
 Implementing and interpreting mutation testing results
+
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[Mutation Testing: Case Studies on Spring Boot APIs](https://youtu.be/88fDcPurp-Y?si=CIw-Xc4BFuCGG53o)|📺 YouTube video| 3+hr|
 
 ## Automated Regression Testing
 
 Strategies for effective regression testing in automated environments
 Tools and best practices for managing automated regression suites
+
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[UMutation Testing: Case Studies on Spring Boot APIs](https://youtu.be/88fDcPurp-Y?si=CIw-Xc4BFuCGG53o)|📺 YouTube video| 3+hr|
 
 ## Testing in DevOps and Continuous Integration (CI)
 
@@ -42,7 +52,10 @@ Strategies for ensuring quality in rapid development cycles
 ## Performance Testing Optimisation
 
 Advanced techniques for load, stress, and performance testing
-Identifying and addressing performance bottlenecks
+Identifying and addressing performance bottlenecks.
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[JavaScript Unit Testing Course](https://www.codecademy.com/learn/learn-javascript-unit-testing)|🛠️ Practical guide | 2-3 hr|
 
 ## Unit Testing
 | Course | Type of course | avg. Training Time Required |
