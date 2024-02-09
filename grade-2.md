@@ -24,8 +24,14 @@
 |[CS50x 2024 - Lecture 7 - SQL](https://youtu.be/1RCMYG8RUSE?si=rRSXrV_Zr-heYLYY)| 📺 YouTube video| 3+hr| 
 
 ## Web Automation UI Testing
+
+A list of excellent tools and resources for test automation across various programming languages, making it easy for software engineers to start automating tests when needed.
+|[Awesome Test Automation](https://github.com/atinfo/awesome-test-automation)|
+
+
 | Course | Type of course | avg. Training Time Required |
 | ------ | -------------- | --------------------------- | 
+|[MODERN WEB TESTING WITH PLAYWRIGHT](https://automationpanda.com/2023/07/28/modern-web-testing-with-playwright/)|📚 Reading| 15 min read | 
 |[Playwright - Complete Beginner Course 2024 (UI + API)](https://www.udemy.com/course/playwright-complete-beginner-course/)| 🎧 Udemy Course | 3 days + | 
 |[Playwright with Python for Web Automation Testing + Visual](https://www.udemy.com/course/playwright-with-python-for-web-automation-testing/)| 🎧 Udemy Course | 1 days + | 
 |[https://www.udemy.com/course/coding-and-testing-an-authentication-api-nodejs-cypress/](https://www.udemy.com/course/coding-and-testing-an-authentication-api-nodejs-cypress/)| 🎧 Udemy Course | 1 days + | 
