@@ -16,21 +16,6 @@
 | ------ | ------ | ---- |
 |[Test-Driven Development Approaches & Behavior-Driven Development Principles Cucumber and Its Applications](https://youtu.be/_reKcWXXbfE?feature=shared)|📺 YouTube video| 3+hr|
 
-## Exploratory Testing
-
-Techniques for unscripted, intuitive testing
-Strategies for efficient exploration of software functionality
-
-## Risk-Based Testing
-
-Understanding and prioritising testing based on risk analysis
-Techniques for identifying and mitigating high-risk areas
-
-## Model-Based Testing
-
-Creating and using models to guide the design of test cases
-Tools and methodologies for model-based testing
-
 ## Mutation Testing
 
 | Course | Type of course | avg. Training Time Required |
@@ -59,6 +44,11 @@ Strategies for ensuring quality in rapid development cycles
 Advanced techniques for load, stress, and performance testing
 Identifying and addressing performance bottlenecks
 
+## Unit Testing
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[JavaScript Unit Testing Course](https://www.codecademy.com/learn/learn-javascript-unit-testing)|🛠️ Practical guide | 2-3 hr|
+
 ## Crowdsourced Testing
 
 Leveraging external testers for large-scale testing efforts
@@ -83,8 +73,3 @@ Strategies for data-driven testing
 
 Introducing controlled chaos to identify system weaknesses
 Implementing chaos engineering practices for resilient systems
-
-## Unit Testing
-| Course | Type of course | avg. Training Time Required |
-| ------ | ------ | ---- |
-|[JavaScript Unit Testing Course](https://www.codecademy.com/learn/learn-javascript-unit-testing)|🛠️ Practical guide | 2-3 hr|
