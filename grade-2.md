@@ -70,19 +70,17 @@
 ## Security and Cybersecurity
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
-|[Performance Testing using Gatling - Beginner Level](https://youtu.be/EKof-cJiTG8?si=2OiBW9yBxWQx0BAu)|📺 YouTube video| 3+hr|
+|[CS50x 2024 - Cybersecurity](https://youtu.be/EKof-cJiTG8?si=2OiBW9yBxWQx0BAu)|📺 YouTube video| 3+hr|
 
-## Exploratory Testing
+## Non-Web Application Testing and Hybrid Application Testing
 
-Techniques for unscripted, intuitive testing
-Strategies for efficient exploration of software functionality
+### Desktop Application Testing
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[Automate Desktop Application Testing with TestComplete](https://smartbear.com/product/testcomplete/desktop-testing/)| 📚 Reading | 10min read | 
+|[What is Desktop Testing?](https://www.leapwork.com/blog/what-is-desktop-testing)| 📚 Reading | 15 min read | 
+|[Simple Guide to Desktop Application Testing](https://www.testdevlab.com/blog/simple-guide-to-desktop-application-testing)| 📚 Reading | 15 min read | 
 
-## Risk-Based Testing
-
-Understanding and prioritising testing based on risk analysis
-Techniques for identifying and mitigating high-risk areas
-
-## Model-Based Testing
-
-Creating and using models to guide the design of test cases
-Tools and methodologies for model-based testing
+### Mobile Application Testing
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
