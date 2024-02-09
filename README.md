@@ -13,3 +13,4 @@ Dive into our handpicked selection of resources covering manual testing, test au
 | Grade 3| [Courses](./grade-3.md) | Advanced testing concepts. |
 | Grade 4| [Courses](./grade-4.md) | Advanced automation testing, advanced API testing. |
 | Performance Testing |  | Foundation to advanced performance testing. |
+| All courses | [Courses](./list-of-all-courses) | |
