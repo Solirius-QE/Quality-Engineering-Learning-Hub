@@ -14,5 +14,5 @@ There are some little gems in here. We've marked the ones we really like with a 
 | Grade 2| [Courses](./grade-2.md) | Testing methodologies, Agile and DevOps, UI Test Automation, programming skills.|
 | Grade 3| [Courses](./grade-3.md) | Advanced testing concepts. |
 | Grade 4| [Courses](./grade-4.md) | Advanced automation testing, advanced API testing. |
-| Performance Testing | [Courses](./peformance-testing.md) | Foundation to advanced performance testing. |
+| Performance Testing | [Courses](./performance-testing.md) | Foundation to advanced performance testing. |
 | All courses | [List of all courses](./list-of-all-courses) | |
