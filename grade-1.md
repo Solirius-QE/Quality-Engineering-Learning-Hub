@@ -27,7 +27,7 @@ For the 🎧 Udemy Course's you will need a log on, speak to one of the team. Fo
 |[Software Testing – Test Analysis](https://www.geeksforgeeks.org/software-testing-test-analysis/) |📚 Reading| 10min read | 
 |[Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/)|📚 Reading| 1hr| 
 
-## Foundation of Applications
+## Foundation in Web Applications
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 |[CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript](https://youtu.be/ciz2UaifaNM?si=TjShIsAO-o3rBWZY)|📺 YouTube video| 3+hr|
