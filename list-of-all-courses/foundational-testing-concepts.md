@@ -5,3 +5,5 @@
 - [Introduction to Software Testing or Software QA](https://www.udemy.com/course/introduction-to-software-testing-or-software-qa/)
 - [ISTQB Certified Tester - Foundation Level 2024 - Accredited](https://www.udemy.com/course/accredited-istqb-certified-tester-foundation-level-course/)
 - [SDLC Overview (1 Hour) - Software Development Life Cycle](https://www.udemy.com/course/sdlc-phases/)
+
+

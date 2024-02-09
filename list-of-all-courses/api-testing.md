@@ -6,6 +6,7 @@
 
 ## Intermediate
 - [Rest API Testing (Automation) from Scratch-Rest Assured Java](https://www.udemy.com/course/rest-api-automation-testing-rest-assured/)
+- [Coding and testing an authentication API - NodeJs + Cypress](https://www.udemy.com/course/coding-and-testing-an-authentication-api-nodejs-cypress/)
 
 ## Advance 
 - [OWASP API Security Top 10 Course – Secure Your Web Apps](https://youtu.be/YYe0FdfdgDU?si=cAWCjSFHANYAs3rq)
