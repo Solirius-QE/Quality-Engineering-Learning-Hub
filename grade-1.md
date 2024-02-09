@@ -30,7 +30,7 @@ For the 🎧 Udemy Course's you will need a log on, speak to one of the team. Fo
 ## Foundation in Web Applications and the Internet
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
-|[CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript](https://youtu.be/ciz2UaifaNM?si=TjShIsAO-o3rBWZY)|📺 YouTube video| 3+hr|
+|[💎 CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript](https://youtu.be/ciz2UaifaNM?si=TjShIsAO-o3rBWZY)|📺 YouTube video| 3+hr|
 
 ## Foundation Web Automation UI Testing
 We suggest that you explore beginner-friendly tools known as low-code platforms. These platforms often come in the form of browser extensions. They allow you to easily record and replay your tests, helping you grasp the basics of test automation. As you become more familiar with these concepts, transitioning to more advanced coded frameworks will feel smoother. However, if you already feel confident using a programming language, feel free to jump right into coded frameworks. (All these tools should be freely available; you shouldn't have to pay anything to use them. If you encounter any instance where you're prompted to pay, please refrain from making any payments and report this issue to us by using the 'issues' feature for this repo here on GitHub.)
@@ -60,7 +60,7 @@ We suggest that you explore beginner-friendly tools known as low-code platforms.
 ## Foundation Github
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
-|[GitHub Skills](https://skills.github.com/)|🛠️ Practical guide | 2-3 hr| 
+|[💎 GitHub Skills](https://skills.github.com/)|🛠️ Practical guide | 2-3 hr| 
 
 ## Foundation of CI/CD
 | Course | Type of course | avg. Training Time Required |
@@ -70,7 +70,7 @@ We suggest that you explore beginner-friendly tools known as low-code platforms.
 ## Foundation API
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
-|[Postman Beginner's Course - API Testing](https://youtu.be/VywxIQ2ZXw4?si=PXCzKTnnZPrQqumJ)| 📺 YouTube video| 4-5 hrs |
+|[💎 Postman Beginner's Course - API Testing](https://youtu.be/VywxIQ2ZXw4?si=PXCzKTnnZPrQqumJ)| 📺 YouTube video| 4-5 hrs |
 
 
 
