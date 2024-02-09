@@ -7,7 +7,7 @@ Dive into our handpicked selection of resources covering manual testing, test au
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 | Grade | Recommend Courses | Focus |
-|:----------|:-------------:|------|
+|:----------|:-------------|------|
 | Grade 1| [Courses](./grade-1.md) | Testing foundations, accessibility, github, beginner programming skills. |
 | Grade 2| [Courses](./grade-2.md) | Testing methodologies, Agile and DevOps, UI Test Automation, programming skills.|
 | Grade 3| [Courses](./grade-3.md) | Advanced testing concepts. |
