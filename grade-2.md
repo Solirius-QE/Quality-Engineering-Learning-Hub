@@ -43,3 +43,23 @@
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 |[APIs for Beginners 2023 - How to use an API (Full Course / Tutorial)](https://youtu.be/WXsD0ZgxjRw?si=N5lTURRhsBF4fqQ5)| 📺 YouTube video| 4-5 hrs |
+
+## Performance Testing
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[Performance Testing using Gatling - Beginner Level](https://www.udemy.com/course/performance-testing-using-gatling/)|🎧 Udemy Course | 1hr 21min |
+
+## Exploratory Testing
+
+Techniques for unscripted, intuitive testing
+Strategies for efficient exploration of software functionality
+
+## Risk-Based Testing
+
+Understanding and prioritising testing based on risk analysis
+Techniques for identifying and mitigating high-risk areas
+
+## Model-Based Testing
+
+Creating and using models to guide the design of test cases
+Tools and methodologies for model-based testing

@@ -16,34 +16,29 @@
 | ------ | ------ | ---- |
 |[Test-Driven Development Approaches & Behavior-Driven Development Principles Cucumber and Its Applications](https://youtu.be/_reKcWXXbfE?feature=shared)|📺 YouTube video| 3+hr|
 
-## Exploratory Testing
-
-Techniques for unscripted, intuitive testing
-Strategies for efficient exploration of software functionality
-
-## Risk-Based Testing
-
-Understanding and prioritising testing based on risk analysis
-Techniques for identifying and mitigating high-risk areas
-
-## Model-Based Testing
-
-Creating and using models to guide the design of test cases
-Tools and methodologies for model-based testing
+## Professional skills
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[Presentation Skills Secrets:Delivering the Talk of Your Life](https://www.udemy.com/course/presentation-skills-secrets/)|🎧 Udemy Course| 2hr 19min | 
+|[Conflict Management with Emotional Intelligence](https://www.udemy.com/course/conflict-management-with-emotional-intelligence/)|🎧 Udemy Course| 2hr 19min | 
 
 ## Mutation Testing
 
-| Course | Type of course | avg. Training Time Required |
-| ------ | ------ | ---- |
-|[UMutation Testing: Case Studies on Spring Boot APIs](https://youtu.be/88fDcPurp-Y?si=CIw-Xc4BFuCGG53o)|📺 YouTube video| 3+hr|
-
 Introduction to the concept of mutation testing
 Implementing and interpreting mutation testing results
+
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[Mutation Testing: Case Studies on Spring Boot APIs](https://youtu.be/88fDcPurp-Y?si=CIw-Xc4BFuCGG53o)|📺 YouTube video| 3+hr|
 
 ## Automated Regression Testing
 
 Strategies for effective regression testing in automated environments
 Tools and best practices for managing automated regression suites
+
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[UMutation Testing: Case Studies on Spring Boot APIs](https://youtu.be/88fDcPurp-Y?si=CIw-Xc4BFuCGG53o)|📺 YouTube video| 3+hr|
 
 ## Testing in DevOps and Continuous Integration (CI)
 
@@ -57,7 +52,15 @@ Strategies for ensuring quality in rapid development cycles
 ## Performance Testing Optimisation
 
 Advanced techniques for load, stress, and performance testing
-Identifying and addressing performance bottlenecks
+Identifying and addressing performance bottlenecks.
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[JavaScript Unit Testing Course](https://www.codecademy.com/learn/learn-javascript-unit-testing)|🛠️ Practical guide | 2-3 hr|
+
+## Unit Testing
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[JavaScript Unit Testing Course](https://www.codecademy.com/learn/learn-javascript-unit-testing)|🛠️ Practical guide | 2-3 hr|
 
 ## Crowdsourced Testing
 
@@ -83,8 +86,3 @@ Strategies for data-driven testing
 
 Introducing controlled chaos to identify system weaknesses
 Implementing chaos engineering practices for resilient systems
-
-## Unit Testing
-| Course | Type of course | avg. Training Time Required |
-| ------ | ------ | ---- |
-|[JavaScript Unit Testing Course](https://www.codecademy.com/learn/learn-javascript-unit-testing)|🛠️ Practical guide | 2-3 hr|
