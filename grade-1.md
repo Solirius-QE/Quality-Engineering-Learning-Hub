@@ -27,6 +27,11 @@ For the 🎧 Udemy Course's you will need a log on, speak to one of the team. Fo
 |[Software Testing – Test Analysis](https://www.geeksforgeeks.org/software-testing-test-analysis/) |📚 Reading| 10min read | 
 |[Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/)|📚 Reading| 1hr| 
 
+## Foundation of Applications
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript](https://youtu.be/ciz2UaifaNM?si=TjShIsAO-o3rBWZY)|📺 YouTube video| 3+hr|
+
 ## Foundation Web Automation UI Testing
 We suggest that you explore beginner-friendly tools known as low-code platforms. These platforms often come in the form of browser extensions. They allow you to easily record and replay your tests, helping you grasp the basics of test automation. As you become more familiar with these concepts, transitioning to more advanced coded frameworks will feel smoother. However, if you already feel confident using a programming language, feel free to jump right into coded frameworks. (All these tools should be freely available; you shouldn't have to pay anything to use them. If you encounter any instance where you're prompted to pay, please refrain from making any payments and report this issue to us by using the 'issues' feature for this repo here on GitHub.)
 | Course | Type of course | avg. Training Time Required |
@@ -45,11 +50,12 @@ We suggest that you explore beginner-friendly tools known as low-code platforms.
 ## Foundation Programming and Scripting
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
-|[Learn JavaScript - Full Course for Beginners](https://youtu.be/PkZNo7MFNFg?si=SmulnMptXXtkGl0c)|📺 YouTube video| 4-5 hrs | 
+|[Learn JavaScript - Full Course for Beginners](https://youtu.be/PkZNo7MFNFg?si=SmulnMptXXtkGl0c)|📺 YouTube video| 1 weeks + | 
 |[freeCodeCamp Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)|🛠️ Practical guide|4-5 hrs | 
-|[C# Tutorial - Full Course for Beginners](https://youtu.be/GhQdlIFylQ8?si=2ax24zCJmZtMtJCM)|📺 YouTube video| 4-5 hrs| 
-|[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/)| 🎧 Udemy Course|4-5 hrs | 
-|[Python for beginners](https://www.udemy.com/course/python-core-and-advanced/)|🎧 Udemy Course| 4-5 hrs| 
+|[C# Tutorial - Full Course for Beginners](https://youtu.be/GhQdlIFylQ8?si=2ax24zCJmZtMtJCM)|📺 YouTube video| 2 weeks +| 
+|[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/)| 🎧 Udemy Course|1 weeks + | 
+|[Python for beginners](https://www.udemy.com/course/python-core-and-advanced/)|🎧 Udemy Course| 1 weeks +| 
+|[Learn to Code with Ruby](https://www.udemy.com/course/learn-to-code-with-ruby-lang/)|🎧 Udemy Course| 2 weeks +| 
 
 ## Foundation Github
 | Course | Type of course | avg. Training Time Required |

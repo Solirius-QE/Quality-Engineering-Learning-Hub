@@ -11,7 +11,6 @@
 - Provides mentorship and guidance to junior testers, fostering their growth and proficiency in testing practices.
 
 ## Advanced Testing Concepts
-
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 |[Test-Driven Development Approaches & Behavior-Driven Development Principles Cucumber and Its Applications](https://youtu.be/_reKcWXXbfE?feature=shared)|📺 YouTube video| 3+hr|
@@ -21,6 +20,12 @@
 | ------ | ------ | ---- |
 |[Presentation Skills Secrets:Delivering the Talk of Your Life](https://www.udemy.com/course/presentation-skills-secrets/)|🎧 Udemy Course| 2hr 19min | 
 |[Conflict Management with Emotional Intelligence](https://www.udemy.com/course/conflict-management-with-emotional-intelligence/)|🎧 Udemy Course| 2hr 19min | 
+
+## Developer Courses
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)|🎧 Udemy Course| 2 week + | 
+|[The Complete C# and Object-Oriented Programming Course](https://www.udemy.com/course/the-complete-c-sharp-developer-course/)|🎧 Udemy Course| 2 week + | 
 
 ## Mutation Testing
 
@@ -61,11 +66,6 @@ Identifying and addressing performance bottlenecks.
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 |[JavaScript Unit Testing Course](https://www.codecademy.com/learn/learn-javascript-unit-testing)|🛠️ Practical guide | 2-3 hr|
-
-## Crowdsourced Testing
-
-Leveraging external testers for large-scale testing efforts
-Managing and interpreting results from crowdsourced testing
 
 ## Non-Functional Testing
 
