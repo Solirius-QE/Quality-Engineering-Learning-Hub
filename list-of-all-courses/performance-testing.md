@@ -1,3 +1,5 @@
+# Performance Testing
+
 | Course | Type of course | avg. Training Time Required |
 | ------ | -------------- | --------------------------- |
 |[High level intro to performance testing and how to script with Jmeter](https://www.ministryoftesting.com/dojo/courses/performance-testing-101-simon-knight)| Ministry of Testing Course| |
