@@ -20,4 +20,4 @@ Here you'll find a list of useful resources, such as blogs, and helpful websites
 
 | Name | Notes | Pages |
 | :------ | :-------------- | :-- |
-|[Mini-book "Holistic Testing: Weave Quality into your Product"](https://agiletestingfellow.com/download_mini_book)|Lisa Crispin and Janet Gregory free e-book on Holistic Testing | 37 |
+|[Mini-book "Holistic Testing: Weave Quality into your Product"](https://agiletestingfellow.com/download_mini_book)|Free e-book by Lisa Crispin and Janet Gregory about the Holistic Testing Model and how teams can use it to develop a quality and testing strategy. | 37 |
