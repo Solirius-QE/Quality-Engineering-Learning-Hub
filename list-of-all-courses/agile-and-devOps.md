@@ -1,4 +1,5 @@
 # Agile and DevOps
+
 | Course | Type of course | avg. Training Time Required |
 | ------ | -------------- | --------------------------- |
 |[Foundations of Agile Software Testing](https://www.udemy.com/course/foundations-of-agile-software-testing-j/)|🎧 Udemy Course | |
