@@ -17,4 +17,4 @@ There are some real gems in here. We've marked the ones we really like with a ðŸ
 | Performance Testing | [Courses](./list-of-all-courses/performance-testing.md) | Foundation to advanced performance testing. |
 | All courses | [List of all courses](./list-of-all-courses) | |
 
-Don't forget to check out our Quality Engineering useful resources section, which includes a list of essential tools, discussions on methodologies, insights into the latest industry trends, and up to date thoughts from leaders in the field. Explore now: [useful resources](./list-of-all-courses)
+Don't forget to check out our Quality Engineering useful resources section, which includes a list of essential tools, discussions on methodologies, insights into the latest industry trends, and up to date thoughts from leaders in the field. Explore now: [useful resources](./list-of-all-courses/useful-resources.md)
