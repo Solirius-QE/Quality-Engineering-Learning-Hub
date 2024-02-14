@@ -14,4 +14,4 @@ Here you'll find a list of useful resources, such as blogs, and helpful websites
 
 | Name | Notes | Last Updated |
 | :------ | :-------------- | :-- |
-|[An Introduction to Agile Testing Interview with Lisa Crispin](https://youtu.be/Nh16rJPh-us?si=delxG5g8qj6o2a9D) | Test Agile pioneer Lisa Crispin's blog, lots of useful insights to testing in an Agile environment. | 20 Nov 2023 |
+|[An Introduction to Agile Testing Interview with Lisa Crispin](https://youtu.be/Nh16rJPh-us?si=delxG5g8qj6o2a9D) | In this interview with Lisa Crispin, Lisa shares an introduction to agile testing, talks about common mistakes teams make when it comes to agile testing, whether or not she thinks teams need testers and more. | 20 Nov 2023 |
