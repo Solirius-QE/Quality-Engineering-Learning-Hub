@@ -28,19 +28,25 @@ For the 🎧 Udemy Course's you will need a log on, speak to one of the team. Fo
 |[Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/)|📚 Reading| 1hr| 
 
 ## Foundation in Web Applications and the Internet
-| Course | Type of course | avg. Training Time Required |
-| ------ | ------ | ---- |
-|[💎 CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript](https://youtu.be/ciz2UaifaNM?si=TjShIsAO-o3rBWZY)|📺 YouTube video| 3+hr|
+|| Course | Type of course | avg. Training Time Required |
+|--| ------ | ------ | ---- |
+|💎|[ CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript](https://youtu.be/ciz2UaifaNM?si=TjShIsAO-o3rBWZY)|📺 YouTube video| 3+hr|
 
 ## Foundation Web Automation UI Testing
-We suggest that you explore beginner-friendly tools known as low-code platforms. These platforms often come in the form of browser extensions. They allow you to easily record and replay your tests, helping you grasp the basics of test automation. As you become more familiar with these concepts, transitioning to more advanced coded frameworks will feel smoother. However, if you already feel confident using a programming language, feel free to jump right into coded frameworks. (All these tools should be freely available; you shouldn't have to pay anything to use them. If you encounter any instance where you're prompted to pay, please refrain from making any payments and report this issue to us by using the 'issues' feature for this repo here on GitHub.)
+We suggest that you explore beginner-friendly tools known as low-code platforms. 
+
+These platforms often come in the form of browser extensions. They allow you to easily record and replay your tests, helping you grasp the basics of test automation. 
+
+As you become more familiar with these concepts, transitioning to more advanced coded frameworks will feel smoother. However, if you already feel confident using a programming language, feel free to jump right into coded frameworks. 
+
+(All these tools should be freely available; you shouldn't have to pay anything to use them. If you encounter any instance where you're prompted to pay, please refrain from making any payments and report this issue to us by using the 'issues' feature for this repo here on GitHub.)
 | Course | Type of course | avg. Training Time Required |
 | ------ | ------ | ---- |
 | **Low-code platforms**| | |
 |[Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)|🛠️ Practical  guide with videos| 2-3 hrs |
 |[Web UI Testing With Katalon: Low-code Journey](https://academy.katalon.com/learning-path/low-code-web-testing/)|🛠️ Practical guide with videos| 2+ hrs |
 | **Code Frameworks**| | |
-|[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|🛠️ Practical  guide with videos| 
+|[Introduction to Playwright training at Test Automation University](https://testautomationu.applitools.com/playwright-intro/)|🛠️ Practical  guide with videos| 1 day |
 
 ## Foundation Web Browser Tools
 | Course | Type of course | avg. Training Time Required |
@@ -58,9 +64,9 @@ We suggest that you explore beginner-friendly tools known as low-code platforms.
 |[Learn to Code with Ruby](https://www.udemy.com/course/learn-to-code-with-ruby-lang/)|🎧 Udemy Course| 2 weeks +| 
 
 ## Foundation Github
-| Course | Type of course | avg. Training Time Required |
-| ------ | ------ | ---- |
-|[💎 GitHub Skills](https://skills.github.com/)|🛠️ Practical guide | 2-3 hr| 
+|| Course | Type of course | avg. Training Time Required |
+|--| ------ | ------ | ---- |
+|💎|[ GitHub Skills](https://skills.github.com/)|🛠️ Practical guide | 2-3 hr| 
 
 ## Foundation of CI/CD
 | Course | Type of course | avg. Training Time Required |
@@ -68,9 +74,9 @@ We suggest that you explore beginner-friendly tools known as low-code platforms.
 |[Jenkins Explained in 3 minutes](https://youtu.be/hlpNgRcZyN0?si=F6Us9YUgBs8xXN2b)| 📺 YouTube video| 3mins |
 
 ## Foundation API
-| Course | Type of course | avg. Training Time Required |
-| ------ | ------ | ---- |
-|[💎 Postman Beginner's Course - API Testing](https://youtu.be/VywxIQ2ZXw4?si=PXCzKTnnZPrQqumJ)| 📺 YouTube video| 4-5 hrs |
+|| Course | Type of course | avg. Training Time Required |
+|--| ------ | ------ | ---- |
+|💎|[ Postman Beginner's Course - API Testing](https://youtu.be/VywxIQ2ZXw4?si=PXCzKTnnZPrQqumJ)| 📺 YouTube video| 4-5 hrs |
 
 
 

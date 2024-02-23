@@ -1,6 +1,5 @@
 # Grade 3
 
-
 **Expectation of Grade**
 
 - Designs comprehensive test strategies and plans, considering various testing techniques and methodologies tailored to project requirements.
