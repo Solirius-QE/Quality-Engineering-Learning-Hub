@@ -1,4 +1,5 @@
 # Programming and Scripting
+
 | Course | Type of course | avg. Training Time Required |
 | ------ | -------------- | --------------------------- |
 |[Learn JavaScript - Full Course for Beginners](https://youtu.be/PkZNo7MFNFg?si=SmulnMptXXtkGl0c)| | |
