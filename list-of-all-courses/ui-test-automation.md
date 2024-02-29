@@ -1,4 +1,5 @@
 # UI Test Automation
+
 | Course | Type of course | avg. Training Time Required |
 | ------ | -------------- | --------------------------- |
 |[Testing Ruby with RSpec: The Complete Guide](https://www.udemy.com/course/testing-ruby-with-rspec/)|🎧 Udemy Course  | |

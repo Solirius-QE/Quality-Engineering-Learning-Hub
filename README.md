@@ -16,7 +16,16 @@ Don't forget to check out our Quality Engineering useful resources section, whic
 | Grade 2| [Courses](./grade-2.md) | Testing methodologies, Agile and DevOps, UI Test Automation, programming skills.|
 | Grade 3| [Courses](./grade-3.md) | Advanced testing concepts. |
 | Grade 4| [Courses](./grade-4.md) | Advanced automation testing, advanced API testing. |
+
+
+| Other | Recommend Courses | Focus |
+|:----------|:-------------|------|
 | All levels| [Courses](./all-levels.md) | Collaborative, teamwork skills, such as conflict management, team building etc. |
 | Performance Testing | [Courses](./list-of-all-courses/performance-testing.md) | Foundation to advanced performance testing. |
 | Useful resources | [Useful resources](./list-of-all-courses/useful-resources.md) |List of essential tools, discussions on methodologies, insights into the latest industry trends|
 | All courses | [List of all courses](./list-of-all-courses) | All courses |
+
+
+| Main platforms | Recommend Courses | Focus |
+|:----------|:-------------|------|
+| freeCodeCamp | [freeCodeCamp.org/learn](https://www.freecodecamp.org/learn/) | Learn to code — for free. Build projects.Earn certifications. |

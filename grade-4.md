@@ -1,6 +1,6 @@
 # Grade 4
 
-**Expectation of Grade**
+## Expectation of Grade**
 
 - Drives the establishment and evolution of testing standards, processes, and best practices across the organisation.
 - Champions a culture of quality assurance and continuous improvement, advocating for innovative approaches and technologies in testing.
