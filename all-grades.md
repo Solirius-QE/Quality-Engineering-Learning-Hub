@@ -1,6 +1,6 @@
-# All levels
+# All grades
 
-Useful courses for all levels.
+Useful courses for all grades.
 
 ## Collaborative Skills
 
