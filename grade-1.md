@@ -67,6 +67,12 @@ As you become more familiar with these concepts, transitioning to more advanced 
 |[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/)| 🎧 Udemy Course|1 weeks + |
 |[Python for beginners](https://www.udemy.com/course/python-core-and-advanced/)|🎧 Udemy Course| 1 weeks +|
 |[Learn to Code with Ruby](https://www.udemy.com/course/learn-to-code-with-ruby-lang/)|🎧 Udemy Course| 2 weeks +|
+|[JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)| 🛠️ Practical guide | 1 week |
+
+## Foundation in Accessibility 
+| Course | Type of course | avg. Training Time Required |
+| ------ | ------ | ---- |
+|[Accessibility — Make the web usable by everyone](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)| 🛠️ Practical guide | 1 Day |
 
 ## Foundation Github
 
